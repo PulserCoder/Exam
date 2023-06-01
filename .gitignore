@@ -5,4 +5,4 @@ views/__pycache__
 .DS_Store
 __pycache__
 venv/
-pg_data
+pg_data/
